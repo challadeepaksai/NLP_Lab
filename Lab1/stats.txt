@@ -1,0 +1,7 @@
+===== Corpus Statistics =====
+Total Sentences: 76758409
+Total Words: 767674423
+Total Characters: 4943970359
+Average Sentence Length (words): 10.00
+Average Word Length (chars): 6.44
+Type/Token Ratio (TTR): 0.0103
